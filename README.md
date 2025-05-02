@@ -85,8 +85,11 @@ Diseñar una plataforma unificada que permita la integración entre las IPS y SU
    ```
 ```bash
     git push origin feature/nueva-funcionalidad
-    ```
-5. Abre un Pull Request para que podamos revisar tus cambios y considerar su integración en el proyecto principal. Esto nos ayuda a mejorar continuamente la plataforma y a mantenerla actualizada con las mejores prácticas.```bash
+```
+5. Abre un Pull Request para que podamos revisar tus cambios y considerar su integración en el proyecto principal. Esto nos ayuda a mejorar continuamente la plataforma y a mantenerla actualizada con las mejores prácticas.
+
+```
+   bash
    git push origin feature/nueva-funcionalidad
    ```
 
